@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Firuz96-04/frankmovie-react-app/static/css/main.17074eea.css",
+    "main.js": "/Firuz96-04/frankmovie-react-app/static/js/main.e8bdc372.js",
+    "index.html": "/Firuz96-04/frankmovie-react-app/index.html",
+    "main.17074eea.css.map": "/Firuz96-04/frankmovie-react-app/static/css/main.17074eea.css.map",
+    "main.e8bdc372.js.map": "/Firuz96-04/frankmovie-react-app/static/js/main.e8bdc372.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17074eea.css",
+    "static/js/main.e8bdc372.js"
+  ]
+}
